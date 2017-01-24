@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt'
 
 # Google Auth
-gem 'omniauth-google-oauth2', '~> 0.2.1'
+gem 'google-authenticator-rails'
 
 group :development, :test do
   gem 'byebug', platform: :mri
